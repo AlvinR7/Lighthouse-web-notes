@@ -11,6 +11,7 @@ function whatToDoForLunch(hungry, availableTime) {
   console.log("availableTime is", availableTime);
 }
 
+```javascript
 
 function whatToDoForLunch(hungry, availableTime) {
   console.log("hungry is", hungry);
